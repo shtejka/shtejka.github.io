@@ -1,0 +1,15 @@
+.card{
+	height:500px;
+	width:600px;
+	border:1px solid grey;
+	float:left;
+	margin:100px;
+}
+h3{
+	text-align: center;
+}
+img{
+	width:400px;
+	height:;
+	display:block;
+}
